@@ -1,0 +1,7 @@
+fastapi[all]
+python-dotenv
+groq
+sentence-transformers
+joblib
+pandas
+scikit-learn
